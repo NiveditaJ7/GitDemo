@@ -22,3 +22,4 @@ print(driver.find_element(By.TAG_NAME, "h3").text)
 
 driver.switch_to.window(WindowOpen[0])
 print(driver.find_element(By.TAG_NAME, "h3").text)
+print("MY Git Stuff")
